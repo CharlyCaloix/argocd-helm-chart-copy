@@ -1,0 +1,8 @@
+apiVersion: v1
+entries:
+  argo-cd:
+  - apiVersion: v2
+    name: argo-cd
+    urls:
+    - https://github.com/CharlyCaloix/argocd-helm-chart-copy
+    version: 5.28.0
