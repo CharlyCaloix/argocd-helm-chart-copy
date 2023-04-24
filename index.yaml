@@ -4,5 +4,5 @@ entries:
   - apiVersion: v2
     name: argo-cd
     urls:
-    - https://github.com/CharlyCaloix/argocd-helm-chart-copy
+    - https://github.com/CharlyCaloix/argocd-helm-chart-copy/blob/main
     version: 5.28.0
